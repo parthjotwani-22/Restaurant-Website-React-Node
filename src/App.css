@@ -1,7 +1,3 @@
-.App {
-
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -50,14 +46,14 @@
 }
 
 .footer{
-    background-color: #D1C4E9;
+    background-color: #9ab4d1;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
-    background: #9575CD ;
+    background: #566dd4 ;
     color:floralwhite;
 }
 
@@ -68,7 +64,7 @@ address{
 }
 
 .navbar-dark {
-    background-color: #512DA8;
+    background-color: #3f2da8;
 }
 
 .page-enter {
